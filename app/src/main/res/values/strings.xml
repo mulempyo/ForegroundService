@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ForegroundService</string>
+    <string name="start">서비스 시작</string>
+    <string name="finish">서비스 종료</string>
+</resources>
